@@ -1,10 +1,8 @@
-This repository contains the official implementation of  
-**MACRec: Multi-view Subspace Alignment for Contrastive Recommendation (AAAI 2026)**
+# MACRec: Multi-view Subspace Alignment for Contrastive Recommendation
 
-MACRec is a **Graph Contrastive Learning (GCL)** framework designed to address the **persistent false negative problem** in recommender systems.  
-Unlike heuristic or local neighborhood-based approaches, MACRec adopts a **global, data-driven calibration strategy** to accurately distinguish true positives from false negatives, offering improved flexibility and robustness.
 
----
+This is the PyTorch implementation for MACRec proposed in the paper Multi-view Subspace Alignment for Contrastive Recommendation, which is accepted by AAAI 2026.
+
 
 ## 🔍 Motivation
 
